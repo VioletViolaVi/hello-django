@@ -1,0 +1,8 @@
+asgiref==3.2.10
+coverage==5.2.1
+dj-database-url==0.5.0
+Django==3.1.1
+psycopg2-binary==2.8.6
+pytz==2020.1
+sqlparse==0.3.1
+unicorn==1.0.1
